@@ -1,0 +1,6 @@
+# RENAME TO .env
+# DO NOT COMMIT
+
+DB_NAME=             # string
+DB_USER=             # string
+DB_PASS=             # string
